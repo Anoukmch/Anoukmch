@@ -29,13 +29,17 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Some of my projects
-[![ft_transcendencee](./42Badges/badge_transcendence_big.png)](https://github.com/Anoukmch/transcendence)
+
+<img src="https://github.com/user-attachments/assets/b138d2c8-d93e-4ec0-beb6-9c0b278a34cf" alt="Design sans titre" class="image" width="400">
+
+[![ft_transcendencee](./42Badges/badge_transcendance.png)](https://github.com/Anoukmch/transcendence) 
+
 The "ft_transcendence" project aims to create a multiplayer Pong platform featuring real-time gameplay, user management with authentication, AI opponents, live chat functionality, and comprehensive user and game statistics dashboards, all ensuring cross-browser compatibility and multilingual support.
-##### Skills: Vue.js, Bootstrap, Django, PostgreSQL API, Docker, teamwork
+Skills: Vue.js, Bootstrap, Django, PostgreSQL API, Docker, teamwork
 
-[![so_longe](./42Badges/badge_solong_big.png)](https://github.com/Anoukmch/42_So_long)
+[![so_longe](./42Badges/badge_solong.png)](https://github.com/Anoukmch/42_So_long)
 
-[![ft_irce](./42Badges/badge_irc_big.png)](https://github.com/Anoukmch/42_ft_irc)
+[![ft_irce](./42Badges/badge_irc.png)](https://github.com/Anoukmch/42_ft_irc)
 
 [![cub3de](./42Badges/badge_cub3d.png)](https://github.com/Anoukmch/42_cubed)
 [![minishelle](./42Badges/badge_minishell.png)](https://github.com/Anoukmch/42_minishell)
