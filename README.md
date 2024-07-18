@@ -56,8 +56,6 @@ The aim was to create a robust IRC server, ensuring non-blocking I/O operations 
 [![netpracticee](./42Badges/badge_netpractice.png)](https://github.com/Anoukmch/42-Netpractice)
 
 
-
-
 ### Certifications
 
 <img src="https://github.com/user-attachments/assets/60199d80-c3e7-472b-a414-dbeccf8ee3d8" width="400" alt="Certification Image 1" style="display: inline-block; margin-right: 20px;">
@@ -70,3 +68,4 @@ The aim was to create a robust IRC server, ensuring non-blocking I/O operations 
 <img src="https://github.com/user-attachments/assets/693a0e0b-3908-45d0-b973-225e681dd8af" width="400">
 
 ### Connect with me!
+
