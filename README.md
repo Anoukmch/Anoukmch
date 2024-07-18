@@ -9,7 +9,6 @@
 * Curious about: artificial intelligence & web development
 
 > 42 is the first tuition-free computer training. Its education is based on peer-to-peer learning: participatory, no classes, no professors, all this lets the students fully express their creativity thanks to learning based on project completion. 42 Heilbronn is part of the international <a href="https://www.42network.org/">42 network</a>, of which <a href="https://www.42prague.com/">42 Prague</a> is a part.
->
 
 ### My Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -30,17 +29,18 @@
 
 ### Some of my projects
 
+[![ft_transcendencee](./42Badges/badge_transcendance.png)](https://github.com/Anoukmch/transcendence) <br>
+The "ft_transcendence" project aims to create a multiplayer Pong platform featuring real-time gameplay, user management with authentication, AI opponents, live chat functionality, and comprehensive user and game statistics dashboards, all ensuring cross-browser compatibility and multilingual support.<br>
+<strong>Skills: Vue.js, Bootstrap, Django, PostgreSQL API, Docker, teamwork</strong><br>
 <img src="https://github.com/user-attachments/assets/b138d2c8-d93e-4ec0-beb6-9c0b278a34cf" alt="Design sans titre" class="image" width="400">
 
-[![ft_transcendencee](./42Badges/badge_transcendance.png)](https://github.com/Anoukmch/transcendence) 
+[![so_longe](./42Badges/badge_solong.png)](https://github.com/Anoukmch/42_So_long) <br>
+This project involves creating a basic 2D game using the MiniLibX graphical library. The game requires handling textures, sprites, window management, and basic gameplay elements. The player moves using W, A, S, and D keys, with the goal of collecting all items and finding the shortest route to the exit.<br>
+<strong>Skills: C, graphics library, 2D rendering</strong>
 
-The "ft_transcendence" project aims to create a multiplayer Pong platform featuring real-time gameplay, user management with authentication, AI opponents, live chat functionality, and comprehensive user and game statistics dashboards, all ensuring cross-browser compatibility and multilingual support.
-Skills: Vue.js, Bootstrap, Django, PostgreSQL API, Docker, teamwork
-
-[![so_longe](./42Badges/badge_solong.png)](https://github.com/Anoukmch/42_So_long)
-
-[![ft_irce](./42Badges/badge_irc.png)](https://github.com/Anoukmch/42_ft_irc)
-
+[![ft_irce](./42Badges/badge_irc.png)](https://github.com/Anoukmch/42_ft_irc) <br>
+The aim was to create a robust IRC server, ensuring non-blocking I/O operations with poll(), and implementing essential IRC functionalities such as authentication, nickname management, channel operations (like KICK, INVITE, MODE), and message broadcasting among clients.<br>
+<strong>Skills: C++</strong><br><br>
 [![cub3de](./42Badges/badge_cub3d.png)](https://github.com/Anoukmch/42_cubed)
 [![minishelle](./42Badges/badge_minishell.png)](https://github.com/Anoukmch/42_minishell)
 [![push_swape](./42Badges/badge_pushswap.png)](https://github.com/Anoukmch/42_Push_swap)
@@ -69,3 +69,4 @@ Skills: Vue.js, Bootstrap, Django, PostgreSQL API, Docker, teamwork
 
 <img src="https://github.com/user-attachments/assets/693a0e0b-3908-45d0-b973-225e681dd8af" width="400">
 
+### Connect with me!
