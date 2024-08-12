@@ -1,4 +1,5 @@
 ## Welcome to my GitHub 👋
+### ~ Currently cooking an interesting project in React and Typescript, stay tuned 🤫 ~ 
 ![u(2)](https://github.com/user-attachments/assets/a7f84057-dc9e-43bd-ab60-a71b6167ce77)
 
 ### About me
