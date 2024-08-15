@@ -70,3 +70,4 @@ The aim was to create a robust IRC server, ensuring non-blocking I/O operations 
 
 ### Connect with me!
 
+<img src="https://github.com/user-attachments/assets/c51d8100-1152-4eaf-82cc-de02870cf30e" width="400">
